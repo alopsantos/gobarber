@@ -30,6 +30,7 @@ export const Content = styled.div`
       display: block;
       text-decoration: none;
       transition: color 0.2s;
+      margin-top: 16px;
 
       &:hover {
         color: ${shade(0.2, '#f4ede8')};
